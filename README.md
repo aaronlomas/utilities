@@ -1,3 +1,5 @@
+BovedaApp
+
 Descripcion:
 Este es un software diseñado para guardar tus contraseñas localmente, 
 con encriptacion (AES-256-GCM), que es el estándar de 
@@ -9,4 +11,5 @@ La contraseña maestra no se puede recuperar por temas de seguridad,
 asegúrese de recordar esa única contraseña, si quiere iniciar desde cero 
 (volver a crear su contraseña maestra) desinstale el software y borre "vault"
 
-de la ruta C:\Users\us-dala\AppData\Local\boveda
+de la ruta C:\Users\TuUsuario\AppData\Local\boveda
+
